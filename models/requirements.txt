@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+gradio
+nltk
+requests
+jupyter
+notebook
+seaborn
+textblob
