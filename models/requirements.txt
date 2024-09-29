@@ -9,3 +9,8 @@ jupyter
 notebook
 seaborn
 textblob
+pygal
+seaborn
+squarify
+plotly
+pickle
